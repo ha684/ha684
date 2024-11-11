@@ -1,19 +1,17 @@
 <h1 align="center">Hi 👋, I'm Phan Thanh Ha</h1>
-<h3 align="center">An AI Enthusiast from Vietnam</h3>
+<h3 align="center">An AI Enthusiast and Learning Developer from Vietnam</h3>
 
-- 🔭 I’m Phan Thanh Ha, delving deep into the fascinating world of Artificial Intelligence.
-  
-- 🌱 Currently, I'm expanding my expertise in computer vision, machine learning, and deep learning technologies.
+- 👋 I’m a third-year student exploring the exciting field of AI, currently interning to build hands-on experience.
 
-- 👀 I'm passionate about applying AI to solve real-world challenges and explore innovative applications.
+- 🌱 Actively learning about computer vision, machine learning, and deep learning – there’s still so much to discover, and I’m eager to keep growing.
 
-- 👯 I'm open to collaborations and eager to connect with like-minded individuals and organizations.
+- 👀 While I’m still developing my skills, I’m passionate about tackling real-world challenges and applying what I’ve learned in meaningful ways.
 
-- 🤝 Looking forward to contributing to exciting AI projects both locally and internationally.
+- 🤝 Open to guidance, mentorship, and collaboration! I’d love to connect with others in the AI community, exchange ideas, and work on projects that help us all learn.
 
-- 💬 Ask me about **Machine Learning, Computer Vision, Python, and AI Development**
+- 💬 Feel free to ask me about what I’ve learned so far, including **Machine Learning, Computer Vision, and Python** – always happy to discuss and learn together.
 
-- 📫 Reach me at **phanha6844@gmail.com**
+- 📫 You can reach me at **phanha6844@gmail.com**
 
 ---
 
