@@ -8,7 +8,7 @@
 ---
 
 - 🎓 **AI major** at FPT University (2023–2025), currently applying my knowledge through real-world internships and hands-on engineering work.
-- 💻 **AI Engineer Intern** at NCCSoft, HAgency, and VissSoft – solving challenges from face recognition and document automation to LLM pipelines and OCR.
+- 💻 **AI Engineer** Solving challenges from face recognition and document automation to LLM pipelines and OCR.
 - 🧠 Deeply involved in **Computer Vision**, **LLM fine-tuning**, **OCR**, **RAG pipelines**, and system integrations for production.
 - 🔧 Skilled in building from end-to-end: designing, training, optimizing, and deploying models in real-world systems.
 - 🚀 Recent work includes:
