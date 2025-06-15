@@ -46,12 +46,3 @@
   <a href="https://www.facebook.com/hapt06082004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
 </p>
 
----
-
-<h3 align="left">📚 Certifications</h3>
-
-- IELTS 6.5 (2021)
-- IBM Full Stack Software Developer – Coursera (2024)
-- Software Development Lifecycle – Coursera (2024)
-- Deep Learning by DeepLearning.ai (2024)
-
